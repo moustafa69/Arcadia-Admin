@@ -1,11 +1,11 @@
-import './App.css'
+import "./App.css";
 
 function App() {
   return (
     <>
-    x
+      <div className="text-blue-800 text-center ">PLACEHOLDER</div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
